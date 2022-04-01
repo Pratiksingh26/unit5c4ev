@@ -1,0 +1,95 @@
+{
+    "users": [
+      {
+        "name": "Samuel",
+        "password": "secret",
+        "location": "bangalore",
+        "interests": [
+          "technology",
+          "food",
+          "movies",
+          "culture",
+          "art",
+          "drama"
+        ],
+        "image": "https://images.unsplash.com/photo",
+        "id": 1,
+        "subscribed": [
+          1,
+          5
+        ]
+      },
+      {
+        "name": "ankit",
+        "password": "anku1010",
+        "location": "bangalore",
+        "interests": [],
+        "image": "https:images",
+        "id": 2
+      },
+      {
+        "name": "ankush",
+        "password": "ankush1010",
+        "location": "kolkata",
+        "interests": [],
+        "image": "https:\"anakuyshimages",
+        "food": "on",
+        "movies": "on",
+        "id": 3
+      },
+      {
+        "name": "ajshdjiadhjisf",
+        "password": "asdfadjhgfiadgf",
+        "location": "bangalore",
+        "interests": [],
+        "image": "https;\"andskfhjsdhfj\"",
+        "id": 4
+      },
+      {
+        "name": "kajal",
+        "password": "kajal1010",
+        "location": "bangalore",
+        "interests": [],
+        "image": "https:akajal;\"",
+        "subscribed": [],
+        "food": "on",
+        "id": 5
+      },
+      {
+        "name": "Pratik",
+        "password": "prtk26",
+        "location": "mumbai",
+        "interests": [],
+        "image": "kjsbdkcbkjcbkdcbj",
+        "subscribed": [],
+        "food": "on",
+        "movies": "on",
+        "culture": "on",
+        "art": "on",
+        "drama": "on",
+        "id": 6
+      },
+      {
+        "name": "kjdb",
+        "password": "kjdb f",
+        "location": "kolkata",
+        "interests": [],
+        "image": "kjdbkd",
+        "subscribed": [],
+        "food": "on",
+        "id": 7
+      }
+    ],
+    "meetups": [
+      {
+        "id": 1,
+        "title": "Saunter Strech",
+        "location": "bangalore",
+        "date": "2022-03-25",
+        "time": "23:59",
+        "theme": "technology",
+        "description": "Random Event",
+        "image": "https://images.unsplash.com/photo"
+      }
+    ]
+  }
